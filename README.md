@@ -25,11 +25,11 @@ An interactive and fun party game that brings the classic **Truth or Dare** expe
 
 ---
 
-## 📸 Demo Video
+## 📸 Screenshots
 
 ![truth and dare UI](screenshots/game.png)
 
-> 🎬 Click the image to watch the full gameplay demo.
+
 
 ---
 
