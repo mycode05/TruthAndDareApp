@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Truth and Dare</string>
+    <string name="start_button">Start</string>
+    <string name="bottle_description">Bottle image for the Spin the Bottle game</string>
+    <string name="spin_bottle">Spin the Bottle</string>
+    <string name="truth">Truth</string>
+    <string name="dare">Dare</string>
+    <string name="home">Home</string>
+    <string name="truths">Truths</string>
+    <string name="dares">Dares</string>
+    <string name="dare_question">Dare Question</string>
+
+    <string name="truth_and_dare_logo">Truth and Dare Logo</string>
+    <string name="next">Next</string>
+
+</resources>

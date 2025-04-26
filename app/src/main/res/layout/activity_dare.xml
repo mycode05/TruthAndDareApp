@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <!-- Heading Text -->
+    <TextView
+        android:id="@+id/dareHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This question below is randomly selected Dare question"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="20dp" />
+
+    <!-- Random Dare Question -->
+    <TextView
+        android:id="@+id/dareQuestion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Random Dare Question Will Appear Here"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:paddingBottom="20dp" />
+
+    <!-- Back Button -->
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:padding="10dp"/>
+
+</LinearLayout>
